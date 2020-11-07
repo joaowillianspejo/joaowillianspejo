@@ -20,6 +20,7 @@ These are some of the technologies and tools that I work and study with:
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react&logoColor=62DAFC&link=https://github.com/topics/react-native/)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&link=https://github.com/topics/html/)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6&link=https://github.com/topics/css/)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/topics/docker/)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code&logoColor=007ACC&link=https://code.visualstudio.com/)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat&logo=insomnia&link=https://insomnia.rest/)
