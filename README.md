@@ -22,6 +22,7 @@ These are some of the technologies and tools that I work and study with:
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6&link=https://github.com/topics/css/)](https://github.com/topics/css)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat&logo=Amazon-AWS&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code&logoColor=007ACC&link=https://code.visualstudio.com/)](https://code.visualstudio.com)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat&logo=insomnia&link=https://insomnia.rest/)](https://insomnia.rest)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/topics/git/)](https://github.com/topics/git)
