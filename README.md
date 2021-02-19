@@ -2,7 +2,7 @@
 
 I'm João Willian, I'm System Analyst at DXC Technology, and I'm from Brazil - 🇧🇷
 
-🏡 Living in **Araraquara** - **SP**, **Brazil**
+🏡 Living in **Santos** - **SP**, **Brazil**
 
 📚 Graduating in **System Analysis and Development** at **Fatec Taquaritinga**
 
