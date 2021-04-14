@@ -6,13 +6,12 @@ I'm João Willian, I'm System Analyst at DXC Technology, and I'm from Brazil - �
 
 📚 Graduating in **System Analysis and Development** at **Fatec Taquaritinga**
 
-[![Linkedin: João Willian](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaowillianspejo/)](https://www.linkedin.com/in/joaowillianspejo)
-![Profile Views](https://komarev.com/ghpvc/?username=joaowillianspejo&style=flat&label=Profile+Views)
-
-
 Hey visit my C.V. too 😉
 
 [![Curriculum Vitae](https://img.shields.io/badge/-Curriculum%20Vitae-blue?style=flat&logo=cv&link=https://github.com/joaowillianspejo/cv/)](https://github.com/joaowillianspejo/cv/)
+
+[![Linkedin: João Willian](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaowillianspejo/)](https://www.linkedin.com/in/joaowillianspejo)
+![Profile Views](https://komarev.com/ghpvc/?username=joaowillianspejo&style=flat&label=Profile+Views)
 
 ## ⚡️ Technologies and Tools
 
