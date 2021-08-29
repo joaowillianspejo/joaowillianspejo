@@ -22,6 +22,7 @@ These are some of the technologies and tools that I work and study with:
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=E34F26&link=https://github.com/topics/html/)](https://github.com/topics/html)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6&link=https://github.com/topics/css/)](https://github.com/topics/css)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components&logoColor=DB7093&link=https://github.com/styled-components)](https://github.com/styled-components)
+[![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C21325&link=https://github.com/facebook/jest/)](https://github.com/facebook/jest)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat&logo=Amazon-AWS&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
