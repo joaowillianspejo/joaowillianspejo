@@ -1,4 +1,4 @@
-### Hi there &nbsp;🤙🏽
+### Hey there &nbsp;🤙🏽
 
 I'm João Willian, I'm System Analyst at DXC Technology, and I'm from Brazil - 🇧🇷
 
