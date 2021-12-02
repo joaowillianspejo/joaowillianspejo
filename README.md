@@ -6,7 +6,7 @@ I'm João Willian, I'm System Analyst at DXC Technology, and I'm from Brazil - �
 
 📚 &nbsp; Graduating in **System Analysis and Development** at **Fatec Taquaritinga**
 
-💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in Cypress into practice
+💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in Cypress and Robot Framework into practice
 
 Hey visit my C.V. and LinkedIn too 😉
 
