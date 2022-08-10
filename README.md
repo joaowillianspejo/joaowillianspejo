@@ -33,6 +33,7 @@ These are some of the technologies and tools that I work and study with:
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components&logoColor=DB7093&link=https://github.com/styled-components)](https://github.com/styled-components)
 [![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C21325&link=https://github.com/facebook/jest/)](https://github.com/facebook/jest)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
+[![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-black?style=flat&logo=robotframework&link=https://github.com/robotframework/robotframework)](https://github.com/robotframework/robotframework)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat&logo=Amazon-AWS&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code&logoColor=007ACC&link=https://code.visualstudio.com/)](https://code.visualstudio.com)
