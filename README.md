@@ -1,6 +1,6 @@
 ### Hey there &nbsp;🤙🏽
 
-I'm João Willian, I'm System Analyst at Accenture, and I'm from Brazil - 🇧🇷
+I'm João Willian, I'm QA Automation Analyst at Accenture, and I'm from Brazil - 🇧🇷
 
 🏡 &nbsp; Living in **Santos** - **SP**, **Brazil**
 
