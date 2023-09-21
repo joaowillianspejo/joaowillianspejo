@@ -1,4 +1,4 @@
-### Hey there &nbsp;🤙🏽
+<h3>Hey there &nbsp;🤙🏽</h3>
 
 I'm João Willian, I'm QA Automation Analyst at Accenture, and I'm from Brazil - 🇧🇷
 
@@ -19,7 +19,7 @@ Hey visit my C.V. and LinkedIn too 😉
  </a>
 </div>
 
-## ⚡️ Technologies and Tools
+<h2>⚡️ Technologies and Tools</h2>
 
 These are some of the technologies and tools that I work and study with:
 
