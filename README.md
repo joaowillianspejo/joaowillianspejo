@@ -45,6 +45,7 @@ These are some of the technologies and tools that I work and study with:
 [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat&logo=insomnia&link=https://insomnia.rest/)](https://insomnia.rest)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032&link=https://github.com/topics/git/)](https://github.com/topics/git)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/topics/github-api/)](https://github.com/topics/github-api)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions&logoColor=2088FF&link=https://github.com/topics/github-api/)](https://github.com/topics/github-api)
 
 
 <!--
