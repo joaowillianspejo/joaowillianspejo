@@ -10,7 +10,7 @@ I'm João Willian, I'm QA Automation Analyst at Accenture, and I'm from Brazil -
 
 Hey visit my C.V. and LinkedIn too 😉
 
-[![Curriculum Vitae](https://img.shields.io/badge/-Curriculum%20Vitae-blue?style=flat&logo=cv&link=https://github.com/joaowillianspejo/cv/)](https://github.com/joaowillianspejo/cv/) &nbsp; [![LinkedIn: João Willian](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaowillianspejo/)](https://www.linkedin.com/in/joaowillianspejo)
+[![Curriculum Vitae](https://img.shields.io/badge/-Curriculum%20Vitae-blue?style=flat&logo=readdotcv&link=https://github.com/joaowillianspejo/cv/)](https://github.com/joaowillianspejo/cv/) &nbsp; [![LinkedIn: João Willian](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaowillianspejo/)](https://www.linkedin.com/in/joaowillianspejo)
 
 <div style="display: inline_block;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaowillianspejo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
