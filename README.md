@@ -34,6 +34,7 @@ These are some of the technologies and tools that I work and study with:
 [![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C21325&link=https://github.com/facebook/jest/)](https://github.com/facebook/jest)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
 [![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-black?style=flat&logo=robotframework&link=https://github.com/robotframework/robotframework)](https://github.com/robotframework/robotframework)
+[![Appium](https://img.shields.io/badge/-Appium-black?style=flat&logo=appium&logoColor=EE376D&link=https://github.com/appium)](https://github.com/appium)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
 [![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat&logo=Amazon-AWS&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
