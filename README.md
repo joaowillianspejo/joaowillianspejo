@@ -37,7 +37,7 @@ These are some of the technologies and tools that I work and study with:
 [![Appium](https://img.shields.io/badge/-Appium-black?style=flat&logo=appium&logoColor=EE376D&link=https://github.com/appium)](https://github.com/appium)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
 [![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
-[![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat&logo=amazonwebservices&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat&logo=amazonwebservices&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![Amazon CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-black?style=flat&logo=Amazon-CloudWatch&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-black?style=flat&logo=Amazon-DynamoDB&logoColor=4053D6&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
 [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat&logo=azure-devops&logoColor=0078D7&link=https://code.visualstudio.com/)](https://code.visualstudio.com)
