@@ -6,7 +6,7 @@ I'm João Willian, I'm QA Automation Analyst at Accenture, and I'm from Brazil -
 
 📚 &nbsp; Graduating in **System Analysis and Development** at **Fatec Taquaritinga**
 
-👨🏽‍💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in React, React Native, Cypress, Robot Framework and Appium into practice
+👨🏽‍💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in React, React Native, Cypress, Robot Framework, Playwright and Appium into practice
 
 Hey visit my C.V. and LinkedIn too 😉
 
