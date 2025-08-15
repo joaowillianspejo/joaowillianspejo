@@ -29,7 +29,7 @@ These are some of the technologies and tools that I work and study with:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/topics/react/)](https://github.com/topics/react)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react&logoColor=62DAFC&link=https://github.com/topics/react-native/)](https://github.com/topics/react-native)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=E34F26&link=https://github.com/topics/html/)](https://github.com/topics/html)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6&link=https://github.com/topics/css/)](https://github.com/topics/css)
+[![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css&logoColor=663399&link=https://github.com/topics/css/)](https://github.com/topics/css)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components&logoColor=DB7093&link=https://github.com/styled-components)](https://github.com/styled-components)
 [![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C21325&link=https://github.com/facebook/jest/)](https://github.com/facebook/jest)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
