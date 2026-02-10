@@ -1,12 +1,12 @@
 <h3>Hey there &nbsp;🤙🏽</h3>
 
-I'm João Willian, I'm QA Automation Analyst at Accenture, and I'm from Brazil - 🇧🇷
+I'm João Willian, I'm QA Engineer, and I'm from Brazil - 🇧🇷
 
 🏡 &nbsp; Living in **Santos** - **SP**, **Brazil**
 
 📚 &nbsp; Graduating in **System Analysis and Development** at **Fatec Taquaritinga**
 
-👨🏽‍💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in React, React Native, Cypress, Robot Framework, Playwright and Appium into practice
+👨🏽‍💻 &nbsp; **Professional goals:** Acting on a project with an agile squad, and being able to put my knowledge in React, React Native, Playwright, Cypress, Robot Framework and Appium into practice
 
 Hey visit my **C.V.** and **LinkedIn** too 😉
 
@@ -32,9 +32,9 @@ These are some of the technologies and tools that I work and study with:
 [![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css&logoColor=663399&link=https://github.com/topics/css/)](https://github.com/topics/css)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components&logoColor=DB7093&link=https://github.com/styled-components)](https://github.com/styled-components)
 [![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C21325&link=https://github.com/facebook/jest/)](https://github.com/facebook/jest)
+[![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat&logo=playwright&link=https://github.com/microsoft/playwright)](https://github.com/microsoft/playwright)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&link=https://github.com/cypress-io/)](https://github.com/cypress-io)
 [![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-black?style=flat&logo=robotframework&link=https://github.com/robotframework/robotframework)](https://github.com/robotframework/robotframework)
-[![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat&logo=playwright&link=https://github.com/microsoft/playwright)](https://github.com/microsoft/playwright)
 [![Appium](https://img.shields.io/badge/-Appium-black?style=flat&logo=appium&logoColor=EE376D&link=https://github.com/appium)](https://github.com/appium)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED&link=https://github.com/topics/docker/)](https://github.com/topics/docker)
 [![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC&link=https://github.com/topics/aws/)](https://github.com/topics/aws)
